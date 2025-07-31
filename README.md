@@ -74,7 +74,7 @@ Il consiste à créer un système de recommandation de livres basé sur le conte
 
 ## 🔗 Liens utiles
 
-- Dataset Kaggle : [instructions dans le repo officiel]  
+- Dataset Kaggle : [https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata/data]  
 - Documentation LangChain : https://python.langchain.com  
 - Tutoriel freeCodeCamp original : https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python
 
